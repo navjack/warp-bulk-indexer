@@ -23,7 +23,7 @@ Warp's [Codebase Context](https://docs.warp.dev/code/codebase-context) feature p
 
 1. **Clone and navigate to the project:**
    ```bash
-   git clone https://github.com/your-username/warp-bulk-indexer.git
+   git clone https://github.com/navjack/warp-bulk-indexer.git
    cd warp-bulk-indexer
    ```
 
