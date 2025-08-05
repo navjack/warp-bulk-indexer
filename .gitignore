@@ -1,0 +1,34 @@
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+.temp/
+temp/
+
+# Logs
+*.log
+
+# Editor files
+.vscode/
+.idea/
+*.sublime-*
+*~
+
+# OS generated files
+Icon?
+__MACOSX/
+
+# AppleScript compiled files
+*.scpt.backup
+
+# Test output
+test-output/
+test-repos/
