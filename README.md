@@ -137,6 +137,19 @@ Contributions are welcome! Please feel free to submit issues and enhancement req
 
 MIT License - see [LICENSE](LICENSE) file for details.
 
+## 🎁 Get Warp Terminal
+
+New to Warp? Get started with the AI-enhanced terminal that makes this tool possible!
+
+**[Download Warp with this referral link](https://app.warp.dev/referral/RZ8K64)** and get an exclusive theme when you sign up. 
+
+Warp's referral program rewards both you and me:
+- **You get**: An exclusive theme for joining
+- **I get**: Progress toward cool swag like stickers, t-shirts, and hoodies
+- **We both get**: A better terminal experience with AI assistance!
+
+*Why Warp?* It's the only terminal with built-in AI, modern editing features, and codebase context that understands your projects.
+
 ## 🙏 Acknowledgments
 
 - [Warp Terminal](https://warp.dev) for creating an amazing AI-enhanced terminal
